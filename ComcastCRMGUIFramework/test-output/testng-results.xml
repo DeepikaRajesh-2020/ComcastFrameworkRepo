@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-02-26T11:23:04Z" name="Default suite" finished-at="2025-02-26T11:23:04Z" duration-ms="27">
+    <groups>
+    </groups>
+    <test started-at="2025-02-26T11:23:04Z" name="Default test" finished-at="2025-02-26T11:23:04Z" duration-ms="27">
+      <class name="practice.test.ABC">
+        <test-method is-config="true" signature="congifBS()[pri:0, instance:practice.test.ABC@1807e3f6]" started-at="2025-02-26T11:23:04Z" name="congifBS" finished-at="2025-02-26T11:23:04Z" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- congifBS -->
+        <test-method is-config="true" signature="congifBC()[pri:0, instance:practice.test.ABC@1807e3f6]" started-at="2025-02-26T11:23:04Z" name="congifBC" finished-at="2025-02-26T11:23:04Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- congifBC -->
+        <test-method is-config="true" signature="congifBM()[pri:0, instance:practice.test.ABC@1807e3f6]" started-at="2025-02-26T11:23:04Z" name="congifBM" finished-at="2025-02-26T11:23:04Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- congifBM -->
+        <test-method signature="m1()[pri:0, instance:practice.test.ABC@1807e3f6]" started-at="2025-02-26T11:23:04Z" name="m1" finished-at="2025-02-26T11:23:04Z" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+        <test-method is-config="true" signature="congifAM()[pri:0, instance:practice.test.ABC@1807e3f6]" started-at="2025-02-26T11:23:04Z" name="congifAM" finished-at="2025-02-26T11:23:04Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- congifAM -->
+        <test-method signature="m2()[pri:0, instance:practice.test.ABC@1807e3f6]" started-at="2025-02-26T11:23:04Z" name="m2" finished-at="2025-02-26T11:23:04Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m2 -->
+        <test-method is-config="true" signature="congifBM()[pri:0, instance:practice.test.ABC@1807e3f6]" started-at="2025-02-26T11:23:04Z" name="congifBM" finished-at="2025-02-26T11:23:04Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- congifBM -->
+        <test-method is-config="true" signature="congifAC()[pri:0, instance:practice.test.ABC@1807e3f6]" started-at="2025-02-26T11:23:04Z" name="congifAC" finished-at="2025-02-26T11:23:04Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- congifAC -->
+        <test-method is-config="true" signature="congifAM()[pri:0, instance:practice.test.ABC@1807e3f6]" started-at="2025-02-26T11:23:04Z" name="congifAM" finished-at="2025-02-26T11:23:04Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- congifAM -->
+        <test-method is-config="true" signature="congifAS()[pri:0, instance:practice.test.ABC@1807e3f6]" started-at="2025-02-26T11:23:04Z" name="congifAS" finished-at="2025-02-26T11:23:04Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- congifAS -->
+      </class> <!-- practice.test.ABC -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
