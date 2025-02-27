@@ -33,6 +33,9 @@ WebDriver driver;
 
 	@FindBy(linkText = "Organizations")
 	private WebElement orglnk;
+
+	@FindBy(linkText = "Product")
+	private WebElement productlnk;
 	
 	@FindBy(linkText = "Contacts")
 	private WebElement contactlnk;
