@@ -37,6 +37,22 @@ WebDriver driver;
 	@FindBy(linkText = "Product")
 	private WebElement productlnk;
 	
+	public WebElement getProductlnk() {
+		return productlnk;
+	}
+
+	public WebElement getCompaignlnk() {
+		return compaignlnk;
+	}
+
+	public WebElement getSignOutlnk() {
+		return signOutlnk;
+	}
+
+	public WebElement getAdminImg() {
+		return adminImg;
+	}
+
 	@FindBy(linkText = "Contacts")
 	private WebElement contactlnk;
 	
