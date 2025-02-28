@@ -7,5 +7,8 @@ public class Opportunities {
 	
 	@FindBy(xpath="//img[@title='Create Opportunity...']")
 	private WebElement opportunitieslnk;
+	
+	@FindBy(name="search_text")
+	private WebElement ele2;
 
 }
