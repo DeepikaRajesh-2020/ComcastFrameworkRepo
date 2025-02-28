@@ -40,6 +40,9 @@ WebDriver driver;
 	@FindBy(linkText = "Opportunities")
 	private WebElement opportunitieslnk;
 	
+	@FindBy(linkText = "Email")
+	private WebElement emaillnk;
+	
 	@FindBy(linkText = "Leads")
 	private WebElement leadslnk;
 	
