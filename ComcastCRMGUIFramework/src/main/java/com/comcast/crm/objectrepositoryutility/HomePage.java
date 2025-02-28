@@ -37,6 +37,9 @@ WebDriver driver;
 	@FindBy(linkText = "Product")
 	private WebElement productlnk;
 	
+	@FindBy(linkText = "Leads")
+	private WebElement leadslnk;
+	
 	public WebElement getProductlnk() {
 		return productlnk;
 	}
